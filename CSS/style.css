@@ -90,7 +90,7 @@ font-size: 14px;
 font-weight: 500;
 position: fixed;
 bottom: 12px;
-left: 24px;
+right: 24px;
 padding: 4px 16px;
 background-color: rgba(6, 158, 133, 0.3);
 }
@@ -233,7 +233,7 @@ font-size: 14px;
 font-weight: 500;
 position: fixed;
 bottom: 12px;
-left: 24px;
+right: 12px;
 padding: 4px 16px;
 background-color: rgba(6, 158, 133, 0.3);
 }

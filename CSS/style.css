@@ -146,9 +146,9 @@ form input.operator {
   color: aqua;
 }
 
-/* calculator section ends here */
+/* ------calculator section ends here----- */
 
-/* media queries starts here */
+/* -------media queries starts here------- */
 @media (max-width: 600px) {
   .hero {
     width: 100%;
@@ -160,8 +160,8 @@ form input.operator {
     justify-content: center;
   }
   
-   .leftContent, .rightContent {
-    flex: 100%;
+   /* -----.leftContent, .rightContent {
+    flex: 100%;------ */
 
   
   .contentWrapper {
@@ -175,6 +175,7 @@ form input.operator {
   }
 
   .leftContent {
+    width: 100%;
     margin-right: 0px;
     display: flex;
     flex-direction: column;
@@ -186,6 +187,7 @@ form input.operator {
 
   
 .rightContent {
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;

@@ -232,8 +232,8 @@ h6 {
 font-size: 14px;
 font-weight: 500;
 position: fixed;
-bottom: 1px;
-right: 12px;
+bottom: 8px;
+right: 8px;
 padding: 4px 16px;
 background-color: rgba(6, 158, 133, 0.3);
 }

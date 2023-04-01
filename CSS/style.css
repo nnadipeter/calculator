@@ -160,6 +160,10 @@ form input.operator {
     justify-content: center;
   }
   
+   .leftContent, .rightContent {
+    flex: 100%;
+
+  
   .contentWrapper {
     /* border: 1px solid rgb(136, 172, 5); */
     width: 90%;
@@ -169,10 +173,6 @@ form input.operator {
     align-items: center;
     margin: 96px 0px;
   }
-
-  
-  .leftContent, .rightContent {
-    flex: 100%;
 
   .leftContent {
     margin-right: 0px;

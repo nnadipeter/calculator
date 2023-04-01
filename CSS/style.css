@@ -149,7 +149,7 @@ form input.operator {
 /* calculator section ends here */
 
 /* media queries starts here */
-@media (max-width: 800px) {
+@media (max-width: 600px) {
   .leftContent, .rightContent {
     flex: 100%;
   }) {
@@ -241,7 +241,7 @@ background-color: rgba(6, 158, 133, 0.3);
 }
 
 
-/* Calculator Style section */
+/* -------Calculator Style section-------- */
 
 
 .calculator {

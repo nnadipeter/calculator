@@ -231,7 +231,7 @@ button:hover {
 h6 {
 font-size: 14px;
 font-weight: 500;
-position: absolute;
+position: sticky;
 bottom: 8px;
 right: 8px;
 padding: 4px 16px;

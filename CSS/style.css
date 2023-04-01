@@ -150,10 +150,6 @@ form input.operator {
 
 /* media queries starts here */
 @media (max-width: 600px) {
-  .leftContent, .rightContent {
-    flex: 100%;
-  }) {
-
   .hero {
     width: 100%;
     height: fit-content;
@@ -173,9 +169,12 @@ form input.operator {
     align-items: center;
     margin: 96px 0px;
   }
+
   
+  .flex-item-right, .flex-item-left {
+    flex: 100%;
+
   .leftContent {
-    max-width: 90%;
     margin-right: 0px;
     display: flex;
     flex-direction: column;
@@ -190,7 +189,6 @@ form input.operator {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;
 }
 
 

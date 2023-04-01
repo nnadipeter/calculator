@@ -171,7 +171,7 @@ form input.operator {
   }
 
   
-  .flex-item-right, .flex-item-left {
+  .leftContent, .rightContent {
     flex: 100%;
 
   .leftContent {

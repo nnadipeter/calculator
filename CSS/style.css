@@ -149,8 +149,10 @@ form input.operator {
 /* calculator section ends here */
 
 /* media queries starts here */
-@media screen and (max-width:
-600px) {
+@media (max-width: 800px) {
+  .leftContent, .rightContent {
+    flex: 100%;
+  }) {
 
   .hero {
     width: 100%;
